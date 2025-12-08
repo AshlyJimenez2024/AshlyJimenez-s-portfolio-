@@ -10,36 +10,45 @@ A fast-paced mobile-style game built in Swift using SpriteKit.
 👉 [https://github.com/AshlyJimenez2024/WhatNow-Game-AshlyJ](https://github.com/FAU-Fall2025-iOS-Mobile-App/final-project-AshlyJimenez2024)
 
 ---
-
-## 💗 Front-End / Web Development
-### **Mindful Gaming Website – HTML/CSS**
-A calming, girly-themed multi-page site built from scratch in VS Code.  
-👉 https://github.com/AshlyJimenez2024/Mindful-Gaming
-
-### **Vision Space of Throwns – Full Multi-Page Website**
-HTML/CSS project that includes Home, About, Careers, TOS, 404 pages, and custom AI artwork.  
-👉 https://github.com/AshlyJimenez2024/Vision-Space-of-Throwns
-
----
-
-## 📊 Data Visualization / Engineering
-### **Data Visualization Projects**
-Data storytelling and visualization examples.  
-👉 Add link here once your repo is ready
-
----
-
-## 🧪 Python Coursework
-### **Linked Lists Worksheet / COP3410 Assignments**
-Algorithms and data structures work in Python.  
-👉 Add link here if you upload your assignments
-
----
-
 ## 📝 More Projects
-See all projects:  
-👉 https://github.com/AshlyJimenez2024?tab=repositories
+See all projects/labs: 
+## 💗 Front-End / Web Development
+### **Lab 1**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/lab-1-ashlyjimenez2024-jpg
+### **Project 1**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/project-1-ashlyjimenez2024
+
+
+### **Lab 2**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/lab-2-AshlyJimenez2024
+### **Project 2**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/project-2-AshlyJimenez2024
+
+
+### **Lab 3**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/lab-3-AshlyJimenez2024
+### **Project 3**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/project-3-AshlyJimenez2024
+
+
+### **Lab 4**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/lab-4-AshlyJimenez2024
+### **Project 4**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/project-4-AshlyJimenez2024
+
+
+### **Lab 5**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/lab-5-AshlyJimenez2024
+### **Project 5**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/project-5-AshlyJimenez2024
+
+
+### **Lab 6**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/lab-6-AshlyJimenez2024
+### **Project 6**
+👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/project-6-AshlyJimenez2024
+
 
 ---
 
-If you’d like a cleaner layout, icons, or screenshots added, I can upgrade this too!
+
