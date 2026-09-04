@@ -11,11 +11,12 @@ A fast-paced mobile-style game built in Swift using SpriteKit.
 
 ---
 
-### **Luxury Curve shopping website — Full-Stack Web Application**
+### 🛍️ **E-Commerce Shopping Website**
 
 A full-stack shopping website developed as part of my FAU Full-Stack Development course. The application provides an interactive online shopping experience where users can browse products and interact with the website.
+
 **Technologies:** React, JavaScript, HTML, CSS
-👉 [View Project on GitHub]([https://github.com/FAU-FullStack-Dev-Spring2026/final-project-AshlyJimenez2024](https://github.com/FAU-FullStack-Dev-Spring2026/final-project-AshlyJimenez2024.git))
+👉 [View Project on GitHub](https://github.com/FAU-FullStack-Dev-Spring2026/final-project-AshlyJimenez2024)
 
 
 ## 📝 More Projects
