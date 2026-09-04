@@ -10,6 +10,14 @@ A fast-paced mobile-style game built in Swift using SpriteKit.
 👉 [https://github.com/AshlyJimenez2024/WhatNow-Game-AshlyJ](https://github.com/FAU-Fall2025-iOS-Mobile-App/final-project-AshlyJimenez2024)
 
 ---
+
+### **Luxury Curve shopping website — Full-Stack Web Application**
+
+A full-stack shopping website developed as part of my FAU Full-Stack Development course. The application provides an interactive online shopping experience where users can browse products and interact with the website.
+**Technologies:** React, JavaScript, HTML, CSS
+👉 [View Project on GitHub](https://github.com/FAU-FullStack-Dev-Spring2026/final-project-AshlyJimenez2024)
+
+
 ## 📝 More Projects
 See all projects/labs: 
 ## 💗 Front-End / Web Development
@@ -47,6 +55,8 @@ See all projects/labs:
 👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/lab-6-AshlyJimenez2024
 ### **Project 6**
 👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/project-6-AshlyJimenez2024
+
+
 
 
 ---
