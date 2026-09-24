@@ -23,7 +23,7 @@ A full-stack shopping website developed as part of my FAU Full-Stack Development
 See all projects/labs: 
 ## 💗 Front-End / Web Development
 ### **Lab 1**
-👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/lab-1-ashlyjimenez2024-jpg
+👉 [https://github.com/FAU-Fall2025-iOS-Mobile-App/lab-1-ashlyjimenez2024-jpg](https://github.com/AshlyJimenez2024/lab-task-squirrel.git)
 ### **Project 1**
 👉 https://github.com/FAU-Fall2025-iOS-Mobile-App/project-1-ashlyjimenez2024
 
