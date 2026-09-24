@@ -16,8 +16,8 @@ A fast-paced mobile-style game built in Swift using SpriteKit.
 A full-stack shopping website developed as part of my FAU Full-Stack Development course. The application provides an interactive online shopping experience where users can browse products and interact with the website.
 
 **Technologies:** React, JavaScript, HTML, CSS
-👉 [View Project on GitHub](https://github.com/FAU-FullStack-Dev-Spring2026/final-project-AshlyJimenez2024)
-
+👉 [[View Project on GitHub](https://github.com/FAU-FullStack-Dev-Spring2026/final-project-AshlyJimenez2024)
+](https://github.com/AshlyJimenez2024/Luxury-Curves-Ecommerce.git)
 
 ## 📝 More Projects
 See all projects/labs: 
