@@ -7,7 +7,7 @@ Welcome to my project portfolio! Here you’ll find my featured work across game
 ## 🎮 Game Development
 ### **WhatNow Game – Swift + SpriteKit**
 A fast-paced mobile-style game built in Swift using SpriteKit.  
-👉 [https://github.com/AshlyJimenez2024/WhatNow-Game-AshlyJ](https://github.com/FAU-Fall2025-iOS-Mobile-App/final-project-AshlyJimenez2024)
+👉 [https://github.com/AshlyJimenez2024/WhatNow-Game-AshlyJ]([https://github.com/FAU-Fall2025-iOS-Mobile-App/final-project-AshlyJimenez2024](https://github.com/AshlyJimenez2024/WhatNow-Game.git))
 
 ---
 
